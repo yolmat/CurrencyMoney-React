@@ -17,12 +17,13 @@ export const Header = styled.header`
 
 export const Logo = styled.img`
   margin-bottom: 5%;
-  width: 20rem;
+  width: 60%;
 `;
 
 export const Title = styled.h1`
   color: #ffffff;
   font-size: 2rem;
+  text-align: center;
 `;
 
 export const Hero = styled.main`
@@ -31,7 +32,7 @@ export const Hero = styled.main`
   align-items: center;
   justify-content: center;
   width: 60vw;
-  gap: 10%;
+  gap: 5vh;
 `;
 
 export const Label = styled.label`
